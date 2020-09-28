@@ -18,7 +18,7 @@ body{
     display: flex;
     align-content: center;
     align-items: center;
-    background: url("ad.jpg");
+    background: url("/img/ad.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     justify-content: center;
